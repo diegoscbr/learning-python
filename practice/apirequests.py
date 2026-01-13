@@ -24,3 +24,4 @@ if pokemon_info:
     print(f"ID: {pokemon_info["id"]}")
     print(f"Height: {pokemon_info["height"]}")
     print(f"Weight: {pokemon_info["weight"]}")
+
